@@ -1,3 +1,2 @@
-text = "this is day one"
 
-print(text)
+print("this is day one")
