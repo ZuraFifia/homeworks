@@ -48,28 +48,50 @@ end_fill()
 
 
 #gverdebis gazangeba
-
 color("brown")
+left(30)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+
+#fanjrebi
+penup()
+goto (15,115)
+pendown()
+color("yellow")
+begin_fill()
+forward(60)
+left(90)
+forward(60)
+left(90)
+forward(60)
+left(90)
+forward(60)
+left(90)
+end_fill()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+penup()
+begin_fill()
+goto (125,115)
+pendown()
+forward(60)
+left(90)
+forward(60)
+left(90)
+forward(60)
+left(90)
+forward(60)
+left(90)
+end_fill()
 
 
 

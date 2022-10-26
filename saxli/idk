@@ -210,7 +210,7 @@ end_fill()
 
 
 penup()
-goto(-30, 0)
+goto(0, 0)
 pendown()
 
 width(3)
